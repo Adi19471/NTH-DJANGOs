@@ -1,0 +1,30 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+<title>ADINARAYANA REDDY </title>
+</head>
+<body>
+   <img src="{% static "/images/logo.png" %}"    alt="Flowers in Chania"/>
+
+<h1>KUMMETHA  ADINARAYANA REDDY  IS DESIRE OF A MCA WEB DEVELOPER TO FULL STACK WEB DEVELOPER</h1><br><p><h3>MCA</h3> qualification 2019-2020</p>
+i have don completed in <b>VIKRAMA SHIMHAPURI UNIVERSITY  </b>MCA with streem of ..in <strong>NELLURE </strong>
+my desire is full stack web developer <mark> INFORMATION TECHNOLOGY</mark>
+<p>comping to my family </p>
+<strong>we are 7 Members in my family see do you want to see my family deatiles click <a href="family.html">here</a>
+AS a Front End dev i'm responsible to creative layouts,That layouts should useful to other developers can they use very easily in theire Projects and this help they work very easier</strong>
+
+
+<p><h2>UI/UX developer  :-</h2></P>
+A UI designer ensures a product makes sense to the user by creating a path that logically flows from one step to the next step.<p>A UI designer ensures each page visuvally communicates that path</p>
+<H2>WEB DESIGNER</H2>
+I'm Really enthusiastic to design a site before developing then the clints and users can get a overview what is the final project.
+
+<h3> A bout me </h3><p>
+i am a full-stack web developer its a pure website designer .In this websites i use to talk to web developers FRENDEND,BACKEND,MIDILEWARE...and some times go to <mark>Institutes,colleges,school </mark>and teach <mark>Motivation,Life Skill and my jouirny </mark></p>
+<img src="{% static "images/s.jpg"  %}" alt="Image Not Found"/>
+<img src="{% static "/images/logo_dj.png" %}"    alt="Flowers in Chania"/>
+
+
+</body>
+</html>
